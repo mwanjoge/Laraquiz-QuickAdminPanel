@@ -7,9 +7,16 @@ It's an open-source version of online Laravel quiz at [LaraQuiz.com](http://lara
 
 __Notice__: originally created with Laravel 5.3, it was upgraded to Laravel 5.6 in March 2018.
 
-![LaraQuiz screenshot](http://webcoderpro.com/laraquiz-demo1.png)
+## Clickable live-demo
 
-![LaraQuiz screenshot 2](http://webcoderpro.com/laraquiz-demo2.png)
+[demo-laraquiz.quickadminpanel.com](http://demo-laraquiz.quickadminpanel.com)
+
+- __Email__: admin@admin.com
+- __Pass__: password
+
+![LaraQuiz screenshot](https://quickadminpanel.com/assets/pages/demos/demo-laraquiz-01.png)
+
+![LaraQuiz screenshot 2](https://quickadminpanel.com/assets/pages/demos/demo-laraquiz-02.png)
 
 ## How to use
 
@@ -37,7 +44,8 @@ Basically, feel free to use and re-use any way you want.
 
 ## More from our LaravelDaily Team
 
-- Check out our adminpanel generator QuickAdminPanel: [Laravel version](https://quickadminpanel.com) and [Vue.js version](https://vue.quickadminpanel.com)
-- Follow our [Twitter](https://twitter.com/dailylaravel) and [Blog](http://laraveldaily.com/blog)
-- Subscribe to our [newsletter with 20+ Laravel links every Thursday](http://laraveldaily.com/weekly-laravel-newsletter/)
+- Check out our adminpanel generator [QuickAdminPanel](https://quickadminpanel.com) 
+- Read our [Blog with Laravel Tutorials](https://laraveldaily.com)
+- FREE E-book: [50 Laravel Quick Tips (and counting)](https://laraveldaily.com/free-e-book-40-laravel-quick-tips-and-counting/)
 - Subscribe to our [YouTube channel Laravel Business](https://www.youtube.com/channel/UCTuplgOBi6tJIlesIboymGA)
+- Enroll in our [Laravel Online Courses](https://laraveldaily.teachable.com/)
